@@ -11528,3 +11528,20 @@ a{
   padding-top: 10px;
   padding-bottom: 10px;
 }
+
+.hero-image2 {
+  background: url(sandwiches.jpg) no-repeat center;
+  background-size: cover;
+  height: 600px;
+  position: relative;
+  opacity: 27%
+}
+
+
+.hero-text2 {
+  text-align: center;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
